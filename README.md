@@ -5,9 +5,11 @@ Preparar um relatório para a divisão de empréstimos de um banco. Descobrir se
 
 
 ### Descrição de dados
-•	children : o número de crianças na família
-•	days_employed : quanto tempo o cliente trabalhou
-•	dob_years : a idade do cliente
+- children : o número de crianças na família
+-	days_employed : quanto tempo o cliente trabalhou
+-	dob_years : a idade do cliente
+
+-	
 •	education : o nível de educação do cliente
 •	education_id : identificador da educação do cliente
 •	family_status : estado civil do cliente
